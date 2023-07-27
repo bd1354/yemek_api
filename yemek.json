@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "yemek_id": 1,
+      "yemek_adi": "Yemek1",
+      "yemek_resim_adi": "ayran",
+      "yemek_adi": "50tl"
+    },
+    {
+      "yemek_id": 2,
+      "yemek_adi": "Yemek2",
+      "yemek_resim_adi": "ayran",
+      "yemek_adi": "60tl"
+    }
+  ]
+}
